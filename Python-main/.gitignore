@@ -1,0 +1,9 @@
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/Python.iml
+/model.tf/saved_model.pb
+/model.tf/variables/variables.data-00000-of-00001
+/model.tf/variables/variables.index
+/.idea/vcs.xml
